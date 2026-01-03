@@ -18,3 +18,4 @@ A premium, responsive web application for artists to upload and showcase their d
 1. Clone the repository:
    ```bash
    git clone https://github.com/Aachisman/DigiArt-Digital-Memory.git
+2. Hosted Link: https://digiart-delta.vercel.app/   
