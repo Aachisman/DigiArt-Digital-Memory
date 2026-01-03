@@ -17,4 +17,4 @@ A premium, responsive web application for artists to upload and showcase their d
 ## 📥 Local Setup
 1. Clone the repository:
    ```bash
-   git clone [YOUR_GITHUB_LINK_HERE]
+   git clone https://github.com/Aachisman/DigiArt-Digital-Memory.git
